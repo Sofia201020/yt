@@ -1,0 +1,114 @@
+body{
+    background-color: #e3b6c1;
+    text-align: justify;
+}
+
+.one  {
+	background-image: radial-gradient(circle at 10px 0, rgba(255,255,255,0) 9px, #fff 10px, rgba(255,255,255,0) 11px);
+	background-repeat: repeat-x;
+	background-size: 20px 11px;
+}
+
+header a{
+    text-decoration: none;
+    padding: 3px;
+    color:white;
+    background-color: rgba(109, 5, 53, 0.507);
+    border-radius: 11px;
+    font-size: 20px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+header h1{
+    text-align: center;
+    background-color: rgb(215, 112, 173);
+    font-family:Bradley Hand, cursive;
+    color: white;
+}
+
+header img{
+    text-align:center;
+    height: 300px;
+    width: 710px;
+    margin: 3px;
+}
+
+header h2{
+    font-size: 30px;
+    font-family: Courier New, monospace;
+    text-align: center;
+    color: white;
+    background-color: rgb(221, 86, 147);
+    padding: 2px;
+}
+
+header p{
+    font-size: 15px;
+    font-family: Courier New, monospace;
+    text-align: justify;
+    color: white;
+    background-color: rgb(221, 86, 147);
+}
+
+main h3{
+    font-family:Courier New, monospace;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgba(163, 25, 83, 0.348);
+}
+
+main p{
+    color: rgb(253, 253, 253);
+    background-color: rgba(166, 7, 76, 0.204);
+    font-family: Snell Roundhand, cursive;
+    text-align: justify;
+}
+
+main h2{
+    font-family: Bradley Hand, cursive;
+    color: rgb(255, 255, 255);
+    background-color: rgba(85, 17, 40, 0.437);
+}
+
+main h1{
+    color: rgb(255, 255, 255);
+    background-color: rgba(36, 33, 57, 0.377);
+    text-align: center;
+    font-family:Luminari, fantasy;
+}
+
+main a{
+    color: #ffffffce;
+    background-color: rgba(255, 255, 255, 0.389);
+    padding: 2px;
+    border-radius: 50px;
+}
+
+footer p{
+    background-color: #9211317c;
+    color: #fbeef2;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+}
+
+footer img{
+    height: 200px;
+    width: 700px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+.img1{
+    text-align: center;
+}
+
+.image{
+    height: 300px;
+    width: 710px;
+}
+
+.img{
+    text-align: center;
+}
